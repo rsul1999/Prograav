@@ -5,8 +5,13 @@
              x:Class="TutorialesMaui.Pages.TabbedPageT"
              Title="TabbedPageT">
 
-    <local:MainPage IconImageSource="tabbed1_24px.png"/>
+    <local:MainPage/>
     <local:Pagina1/>
     <local:Pagina2/>
+    <local:Pagina3/>
+    <local:Pagina4/>
+    <local:Pagina5/>
+    <local:Pagina6/>
+    <local:Pagina7/>
 
 </TabbedPage>

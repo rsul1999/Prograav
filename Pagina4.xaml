@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TutorialesMaui.Pagina4"
+             Title="Vistas">
+    <VerticalStackLayout>
+
+        <Label Text="Label: Muestra texto." />
+        <Label Text="ImageButton: Botón que muestra una imagen." />
+        <Label Text="Border: Dibuja un borde alrededor de su vista secundaria." />
+        <Label Text="Frame: Vista contenedora que tiene una barra de título y un borde." />
+        <Label Text="Image: Muestra una imagen." />
+        <Label Text="WebView: Muestra una página web." />
+        <Label Text="TableView: Muestra una tabla de datos." />
+        
+    </VerticalStackLayout>
+</ContentPage>

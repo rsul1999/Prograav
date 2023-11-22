@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TutorialesMaui.Pagina3"
+             Title="Formas">
+    <ScrollView>
+    <VerticalStackLayout>
+        <Label Text="Line: Representa una línea en una interfaz de usuario." />
+        
+        <Label Text="Polyline: Dibuja una serie de segmentos de línea conectados para formar una forma irregular." />
+           
+            <Label Text="Rectangle: Define un rectángulo con esquinas en ángulo recto." />
+            
+            <Label Text="Ellipse: Representa una elipse, una forma ovalada." />
+            
+            <Label Text="Polygon: Dibuja un polígono con un número variable de lados y esquinas conectadas." />
+            
+            <Label Text="BoxView: Dibuja un rectangulo simple." />
+        
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

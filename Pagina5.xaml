@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TutorialesMaui.Pagina5"
+             Title="Entradas">
+    <VerticalStackLayout>
+        <Label Text="Entry: Permite a los usuarios ingresar texto." />
+        <Entry x:Name="entrada" Text="Soy una entrada" />
+        <Label Text="DatePicker: Permite a los usuarios seleccionar una fecha." />
+        <DatePicker x:Name="Fecha"/>
+        <Label Text="TimePicker: Permite a los usuarios seleccionar una hora." />
+        <TimePicker x:Name="Hora"/>
+        <Label Text="Button: Realiza una acción cuando se toca." />
+        <Button x:Name="Btn" Text="soy un boton" Clicked="Btn_Clicked" HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>
