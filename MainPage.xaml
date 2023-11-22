@@ -2,42 +2,21 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TutorialesMaui.MainPage"
-             Title="MainPage">
-   
+             Title="Main">
 
-    <ScrollView>
-        <VerticalStackLayout
-            Spacing="25"
-            Padding="30,0"
-            VerticalOptions="Center">
 
-            <Image
-                Source="dotnet_bot.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
-                HeightRequest="200"
-                HorizontalOptions="Center" />
+    <ScrollView BackgroundColor="LightGray">
+        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Margin="20">
 
-            <Label
-                Text="Hello, World!"
-                SemanticProperties.HeadingLevel="Level1"
-                FontSize="32"
-                HorizontalOptions="Center" />
+            <Label Text="Glosario" FontSize="Title" HorizontalTextAlignment="Center" TextColor="Black"/>
 
-            <Label
-                Text="Welcome to .NET Multi-platform App UI"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
-                HorizontalOptions="Center" />
+            <Label Text="Clase" FontSize="24" HorizontalTextAlignment="Center" TextColor="DarkBlue"/>
+            <Label Text="Programación Avanzada" HorizontalTextAlignment="Center" TextColor="Black"/>
 
-            <Button
-                x:Name="CounterBtn"
-                Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Center" />
+            <Label Text="Stanley R Jimenez Prego" FontSize="30" HorizontalTextAlignment="Center" TextColor="Black" Margin="0,10,0,20"/>
 
-        </VerticalStackLayout>
+            <Label Text="Maestro:" FontSize="24" HorizontalTextAlignment="Center" TextColor="DarkBlue"/>
+            <Label Text="Jose C Aguilar Canepa" FontSize="24" HorizontalTextAlignment="Center" TextColor="Black"/>
+        </StackLayout>
     </ScrollView>
-
 </ContentPage>

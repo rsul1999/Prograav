@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TutorialesMaui
+build_property.ProjectDir = C:\Users\Kila\Desktop\Prograav\
+
+[C:/Users/Kila/Desktop/Prograav/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Kila/Desktop/Prograav/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Kila/Desktop/Prograav/FlyoutMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.FlyoutMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = FlyoutMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = FlyoutMenuPage.xaml
+
+[C:/Users/Kila/Desktop/Prograav/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Kila/Desktop/Prograav/Pages/FlyoutPageT.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.Pages.FlyoutPageT.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FlyoutPageT.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FlyoutPageT.xaml
+
+[C:/Users/Kila/Desktop/Prograav/Pages/TabbedPageT.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.Pages.TabbedPageT.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TabbedPageT.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TabbedPageT.xaml
+
+[C:/Users/Kila/Desktop/Prograav/Pagina1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.Pagina1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagina1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagina1.xaml
+
+[C:/Users/Kila/Desktop/Prograav/Pagina2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.Pagina2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagina2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagina2.xaml
+
+[C:/Users/Kila/Desktop/Prograav/Pagina3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.Pagina3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagina3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagina3.xaml
+
+[C:/Users/Kila/Desktop/Prograav/Pagina4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.Pagina4.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagina4.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagina4.xaml
+
+[C:/Users/Kila/Desktop/Prograav/Pagina5.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.Pagina5.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagina5.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagina5.xaml
+
+[C:/Users/Kila/Desktop/Prograav/Pagina6.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.Pagina6.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagina6.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagina6.xaml
+
+[C:/Users/Kila/Desktop/Prograav/Pagina7.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.Pagina7.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagina7.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagina7.xaml
+
+[C:/Users/Kila/Desktop/Prograav/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Kila/Desktop/Prograav/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorialesMaui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

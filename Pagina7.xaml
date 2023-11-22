@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TutorialesMaui.Pagina7"
+             Title="Selectores">
+    <VerticalStackLayout>
+        <Label Text="RadioButton: Permite a los usuarios seleccionar una de un grupo de opciones." />
+        <RadioButton GroupName="Prueba"/>
+        <Label Text="CheckBox: Permite a los usuarios seleccionar una o más opciones." />
+        <CheckBox></CheckBox>
+        <Label Text="Switch: Permite a los usuarios alternar entre dos estados." />
+        <Switch></Switch>
+        <Label Text="Slider: Permite a los usuarios seleccionar un valor de un rango." />
+        <Slider Maximum="100"/>
+        <Label Text="Stepper: Permite a los usuarios incrementar o decrementar un valor en una cantidad fija." />
+        <Stepper Maximum="100" Increment="10" HorizontalOptions="Center"/>
+        <Label Text="Picker: Permite a los usuarios seleccionar una de una lista de opciones." />
+        <Picker x:Name="picker"
+        Title="Seleciona un tipo de café"
+        TitleColor="AliceBlue">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Capuccino</x:String>
+                    <x:String>Moka</x:String>
+                    <x:String>Expresso</x:String>
+                    <x:String>Pumpkin spice latte</x:String>
+                    <x:String>Latte</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+    </VerticalStackLayout>
+</ContentPage>
